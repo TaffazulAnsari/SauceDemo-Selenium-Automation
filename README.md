@@ -1,3 +1,4 @@
+![SauceDemo Screenshot](https://github.com/TaffazulAnsari/SauceDemo-Selenium-Automation/blob/main/screenshorts/Screenshot%202026-10-10%20172511.png?raw=true)
 
 # SauceDemo Selenium Automation Tests
 
